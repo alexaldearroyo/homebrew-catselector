@@ -1,8 +1,8 @@
 class Catsel < Formula
   desc "Interactive file selector for concatenating and exporting text files"
   homepage "https://github.com/alexaldearroyo/catselector"
-  url "https://github.com/alexaldearroyo/catselector/archive/refs/tags/v1.0.3.tar.gz"
-  sha256 "00daa38e0c4ab6865360ba74457baf2b85b42d7950598da7d2c0efddc95c23d5"
+  url "https://github.com/alexaldearroyo/catselector/archive/refs/tags/v1.0.4.tar.gz"
+  sha256 "a3e93d709503194b7ba982629d61813166ef10f3c837c316144e5cebe751755e"
   license "MIT"
 
   depends_on "go" => :build
